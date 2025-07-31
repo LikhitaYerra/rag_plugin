@@ -1,0 +1,4 @@
+GDPR Clause 5: Personal data shall be adequate, relevant and limited to what is necessary.
+EU AI Act Article 13: Providers shall ensure transparency on the capabilities and limitations of AI systems.
+FAIR Principle: Data should be registered with persistent identifiers for reproducibility.
+HIPAA Security Rule: Implement technical policies for access control to electronic protected health information.
